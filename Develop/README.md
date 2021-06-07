@@ -1,4 +1,4 @@
-# none
+# non
   ## Licensing:
   ![License badge](https://img.shields.io/badge/license-Apache-blue)
   ## Table of Contents 
@@ -9,19 +9,19 @@
   - [Testing](#testing)
   - [Questions?](#questions)
   ## Description:
-  none
+  n
   ## Installation:
-  none
+  on
   ## Usage:
-  none
+  on
   ## License:
   
-  Copyright (c) Thang Nguyen. All rights reserved. 
+  Copyright © Thang Nguyen. All rights reserved. 
   Licensed under the [Apache](https://www.apache.org/licenses/LICENSE-2.0.txt) license.
   ## Contribution:
-  none
+  on
   ## Testing:
-  none
+  on
   ## Questions?
-  - Github: [none](https://github.com/none)
-  - Email: none 
+  - Github: [no](https://github.com/no)
+  - Email: n 

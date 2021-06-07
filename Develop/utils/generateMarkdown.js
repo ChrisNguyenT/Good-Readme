@@ -36,7 +36,7 @@ function renderLicenseSection(license) {
   }
   else {
     return `
-  Copyright (c) Thang Nguyen. All rights reserved. 
+  Copyright © Thang Nguyen. All rights reserved. 
   Licensed under the [${license}](${renderLicenseLink(license)}) license.`;
   }
 }
