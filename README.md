@@ -15,7 +15,7 @@
   ## Usage:
   The application will prompt the user with command line questions and then generates a README file based on those responses.
   
-  Walkthrough video: https://drive.google.com/file/d/17CjLRgjffreF2myzw_pCMXU3QXJCZ__Q/view
+  [Walkthrough Video](https://drive.google.com/file/d/17CjLRgjffreF2myzw_pCMXU3QXJCZ__Q/view)
   ## License:
   
   Copyright © Thang Nguyen. All rights reserved. 
