@@ -9,11 +9,11 @@
   - [Testing](#testing)
   - [Questions?](#questions)
   ## Description:
-  This application generates a README file based on the user's input.
+  This application generates a professional README based on the user's input.
   ## Installation:
-  'npm install' and 'node index.js' in the appropriate file directory.
+  Run 'npm install' and then 'node index.js' in the appropriate file directory.
   ## Usage:
-  The application will prompt the user with command line questions and then generates a README file based on those responses.
+  Download the repository and then follow the installation instructions to generate your README file.
   ## License:
   
   Copyright © Thang Nguyen. All rights reserved. 
@@ -21,7 +21,7 @@
   ## Contribution:
   Anyone can contribute to this project.
   ## Testing:
-  You can test this application by downloading the repository and running npm install and node index.js.
+  You can test this project through cloning this repository and following the usage instructions.
   ## Questions?
   - Github: [thangnt336](https://github.com/thangnt336)
   - Email: thangnt336@gmail.com 
